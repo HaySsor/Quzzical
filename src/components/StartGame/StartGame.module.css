@@ -1,0 +1,27 @@
+.start h1 {
+	font-family: "Karla";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 37px;
+	text-align: center;
+	color: #293264;
+    margin-bottom: 20px;
+}
+.start p {
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+	color: #293264;
+    margin-bottom: 30px;
+}
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	z-index: 100;
+}

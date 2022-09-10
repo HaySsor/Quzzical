@@ -1,0 +1,31 @@
+.game {
+	z-index: 100;
+	margin: 50px;
+	align-self: start;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.title {
+	margin: 20px 0;
+}
+.contener {
+	border-bottom: 1px solid black;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.box {
+	display: flex;
+	justify-content: space-around;
+}
+.score {
+	font-size: 20px;
+	color: #0b185a;
+	font-weight: bold;
+}
+.winbox {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}

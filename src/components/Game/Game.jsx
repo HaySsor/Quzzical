@@ -87,7 +87,6 @@ function Game(props) {
 								id={item.id}
 								idAnswer={nanoid()}
 								key={nanoid()}
-								pickAnswer={handleAnswer}
 								selected={item.selected}
 								current={item.correct}
 							/>

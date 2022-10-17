@@ -1,5 +1,5 @@
 # QuzzicalReact
-| Tech |
+## Project
 | React | https://github.com/HaySsor/Quzzical|
 
 

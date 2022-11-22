@@ -23,7 +23,7 @@
 
   <p align="center">
     <br />
-    <a href="https://hayssor.github.io/QuizVue/">View Demo</a>
+    <a href="https://hayssor.github.io/QuzzicalReact/">View Demo</a>
   </p>
 </div>
 
